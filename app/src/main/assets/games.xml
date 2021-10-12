@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Game>
+        <Name>Fortnite</Name>
+        <Rating>8</Rating>
+    </Game>
+
+    <Game>
+        <Name>Among Us</Name>
+        <Rating>10</Rating>
+    </Game>
+
+    <Game>
+        <Name>Minecraft</Name>
+        <Rating>9</Rating>
+    </Game>
+
+    <Game>
+        <Name>Crossy Road</Name>
+        <Rating>6</Rating>
+    </Game>
+
+    <Game>
+        <Name>Vain Glory</Name>
+        <Rating>8</Rating>
+    </Game>
+</Root>
